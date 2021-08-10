@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1>Hi there </h1>
 My Name is Martin Valdivia, I'm a Mechatronics Engineer and Project Manager interested in Software Development, Engineering, Data Science and Project Management. 
 I'm currently learning about Data Science and Business Intelligence. 
 
