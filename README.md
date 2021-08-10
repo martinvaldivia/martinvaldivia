@@ -1,14 +1,18 @@
-### Hi there 👋
-<h1>Hi there </h1>
-My Name is Martin Valdivia, I'm a Mechatronics Engineer and Project Manager interested in Software Development, Engineering, Data Science and Project Management. 
-I'm currently learning about Data Science and Business Intelligence. 
+<h1>Hi there 👋 </h1>
 
-How to reach me:
-Twitter: @code_valdivia
-Twitter: @marvalmej
+<h2>About Me </h2>
+<p>My name is Martin Valdivia, I'm a Mechatronics Engineer living in México</p>
+<u1>I have several interests, some of them are: </u1>
+  <li>Project Management</li>
+  <li>Software Development</li>
+  <li>Engineering</li>
+  <li>Data Science</li>
 
-Regards. 
+<h2>How to Reach Me:</h2>
+<p>Twitter: @code_valdivia, @marvalmej <p>
 
+<p>I'd be glad to connect with you and collaborate on Projects </p>
+<h3>Regards</h3>
 
 
 <!--
