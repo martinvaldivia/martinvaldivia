@@ -9,7 +9,7 @@
   <li>Data Science</li>
 
 <h2>How to Reach Me:</h2>
-<p>Twitter: @code_valdivia, @marvalmej <p>
+<p>Twitter: @valdiviatech, @marvalmej <p>
 
 <p>I'd be glad to connect with you and collaborate on Projects </p>
 <h3>Regards</h3>
