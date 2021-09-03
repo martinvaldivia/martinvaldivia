@@ -10,7 +10,8 @@
 
 <h2> Skills </h2>
 <li>Web Development: HTML, CSS, JavaScript </li>
-<li>Web Design: Figma, Zeplin, Invision, Sketching, WireFraming< </li>
+<li>Web Design: Figma, Zeplin, Invision, Sketching, WireFraming </li>
+<li>Web Platforms: Webflow </li> 
 <li>DataBases: SQL, MySQL</li> 
 <li>Verion Control Systems: Git, GitHub, GitLab</li> 
 
