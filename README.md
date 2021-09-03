@@ -11,6 +11,8 @@
 <h2> Skills </h2>
 <li>Web Development: HTML, CSS, JavaScript </li>
 <li>DataBases: SQL, MySQL</li> 
+<li>Verion Control Systems: Git, GitHub, GitLab</li> 
+
 
 <h2>How to Reach Me:</h2>
 <p>Twitter: @valdiviatech, @marvalmej <p>
