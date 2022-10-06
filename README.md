@@ -1,26 +1,28 @@
 <h1>Hi there 👋 </h1>
 
 <h2>About Me </h2>
-<p>My name is Martin Valdivia, I'm a Mechatronics Engineer living in México</p>
-<u1>I have several interests, some of them are: </u1>
+<p>My name is Martin, I'm a Mechatronics Engineer living in México</p>
+<u1>I have several interests, some of those are: </u1>
   <li>Project Management</li>
-  <li>Software Development</li>
   <li>Engineering</li>
   <li>Data Science</li>
+  <li>Finance and Economy </li>
 
-<h2> Skills </h2>
-<li>Web Development: HTML, CSS, JavaScript </li>
-<li>Web Design: Figma, Zeplin, Invision, Sketching, WireFraming </li>
+<h2> Some of my Skills are:</h2>
+<li>Web Development</li>
+<li>Web Design</li>
 <li>Web Platforms: Webflow </li> 
-<li>DataBases: SQL, MySQL</li> 
+<li>DataBases</li> 
 <li>Verion Control Systems: Git, GitHub, GitLab</li> 
+<li>Technical Support and Service Desk </li>
 
 
 <h2>How to Reach Me:</h2>
-<p>Twitter: @valdiviatech, @marvalmej <p>
+<p>You can contact me at: </p>
+<p>Twitter: @valdiviatech, @marvalmej </p>
 
-<p>I'd be glad to connect with you and collaborate on Projects </p>
-<h3>Regards</h3>
+<p>I'll be glad to connect with you and collaborate on Projects </p>
+<h3>Best Regards!</h3>
 
 
 <!--
