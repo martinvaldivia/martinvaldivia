@@ -13,7 +13,7 @@
 <li>Web Design</li>
 <li>Web Platforms: Webflow </li> 
 <li>DataBases</li> 
-<li>Verion Control Systems: Git, GitHub, GitLab</li> 
+<li>Version Control Systems: Git, GitHub, GitLab</li> 
 <li>Technical Support and Service Desk </li>
 
 
