@@ -39,7 +39,7 @@
             </h3>
             <p>
                 I worked as a Data Analyst and was in charged mainly of the data analysis and data visualization of several projects. 
-                This worked was done using SQL, Excel, and PowerBI. 
+                This work was done using mainly SQL, Excel, and PowerBI. 
             </p>
         </div>
         <div>
@@ -104,7 +104,7 @@
                 </div>
                 <div>
                     <p>
-                        <a href="https://www.linkedin.com/in/valdiviatech/">LinkedIn</a>
+                        <a href="https://www.linkedin.com/in/martin-valdivia/">LinkedIn</a>
                     </p>
                 </div>
             </footer>
