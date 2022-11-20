@@ -4,13 +4,6 @@
         <!-- <title>Github Introduction</title> -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-         <style>
-        h1 {
-            background-color: #aaa;
-            padding: 2em;
-            text-align: center;
-        }
-    </style>
     </head>
     <body>
         <h1>Mechatronics Engineer, B.S. in Mechatronics Engineering</h1>
